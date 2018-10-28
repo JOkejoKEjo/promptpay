@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/oxise/promptpay/issues"
   },
-  "homepage": "https://github.com/oxise/promptpay#readme"
+  "homepage": "https://github.com/oxise/promptpay#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
