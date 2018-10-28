@@ -1,7 +1,7 @@
 {
-  "name": "promptpay",
+  "name": "qrcode-gbpay",
   "version": "1.0.0",
-  "description": "",
+  "description": "GB PAY QR Code Promptpay + Webhook",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
