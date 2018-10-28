@@ -1,6 +1,8 @@
 # promptpay
 
 ```
+Install : npm i -S qrcode-gbpay
+
 @obj {
     amount: Number,
     detail: String,
